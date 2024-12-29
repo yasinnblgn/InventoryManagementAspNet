@@ -1,4 +1,4 @@
-# Inventory Management ASP.NET Core Project
+# Inventory Management ASP.NET Core Project 🏷️
 
 An **Inventory Management System** built with **ASP.NET Core 8**, **Entity Framework Core**, and **MSSQL**. This project demonstrates CRUD functionality for managing products, with a responsive frontend and API support.
 
