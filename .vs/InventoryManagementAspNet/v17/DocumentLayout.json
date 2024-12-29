@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|c:\\users\\yasin\\workspaces\\inventorymanagementaspnet\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|c:\\users\\yasin\\workspaces\\inventorymanagementaspnet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|c:\\users\\yasin\\workspaces\\inventorymanagementaspnet\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|c:\\users\\yasin\\workspaces\\inventorymanagementaspnet\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|c:\\users\\yasin\\workspaces\\inventorymanagementaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|c:\\users\\yasin\\workspaces\\inventorymanagementaspnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|c:\\users\\yasin\\workspaces\\inventorymanagementaspnet\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|c:\\users\\yasin\\workspaces\\inventorymanagementaspnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|c:\\users\\yasin\\workspaces\\inventorymanagementaspnet\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|c:\\users\\yasin\\workspaces\\inventorymanagementaspnet\\inventorymanagementaspnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6C4B3F5-2F9E-40FB-8635-B7A0DDAA1C45}|InventoryManagementAspNet.csproj|solutionrelative:inventorymanagementaspnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T23:42:50.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:37:11.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:11:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:51:29.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA3wEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:15:18.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T20:51:06.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:12:46.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T23:05:40.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:37:40.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventoryManagementAspNet.csproj",
+              "DocumentMoniker": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\InventoryManagementAspNet.csproj",
+              "RelativeDocumentMoniker": "InventoryManagementAspNet.csproj",
+              "ToolTip": "C:\\Users\\yasin\\WorkSpaces\\InventoryManagementAspNet\\InventoryManagementAspNet.csproj",
+              "RelativeToolTip": "InventoryManagementAspNet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T21:02:26.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿@model IEnumerable<InventoryManagementAspNet.Product>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventory Management</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Inventory Management</h1>
+
+        <!-- Form for Add and Update -->
+        <form id="productForm" method="post" action="/Products/Save">
+            <input type="hidden" id="productId" name="Id" value="0">
+            <div class="mb-3">
+                <label for="productName" class="form-label">Name</label>
+                <input type="text" id="productName" name="Name" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label for="productQuantity" class="form-label">Quantity</label>
+                <input type="number" id="productQuantity" name="Quantity" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label for="productPrice" class="form-label">Price</label>
+                <input type="number" id="productPrice" name="Price" class="form-control" step="0.01" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Save</button>
+            <button type="reset" class="btn btn-secondary" onclick="resetForm()">Reset</button>
+        </form>
+
+        <!-- Table for Products -->
+        <div class="mt-4">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var product in Model)
+                    {
+                        <tr>
+                            <td>@product.Id</td>
+                            <td>@product.Name</td>
+                            <td>@product.Quantity</td>
+                            <td>@product.Price.ToString("C")</td>
+                            <td>
+                                <button class="btn btn-warning btn-sm" onclick="editProduct(@product.Id, '@product.Name', @product.Quantity, @product.Price)">Edit</button>
+                                <form method="post" action="/Products/Delete" style="display:inline;">
+                                    <input type="hidden" name="Id" value="@product.Id">
+                                    <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        function editProduct(id, name, quantity, price) {
+            document.getElementById('productId').value = id;
+            document.getElementById('productName').value = name;
+            document.getElementById('productQuantity').value = quantity;
+            document.getElementById('productPrice').value = price;
+        }
+
+        function resetForm() {
+            document.getElementById('productId').value = 0;
+        }
+    </script>
+</body>
+</html>
