@@ -30,27 +30,27 @@ An **Inventory Management System** built with **ASP.NET Core 8**, **Entity Frame
 
 ---
 
-2. Configure the Database: Update appsettings.json:
+## Configure the Database: Update appsettings.json:
 
 "ConnectionStrings": {
     "DefaultConnection": "Server=localhost;Database=InventoryDB;Trusted_Connection=True;TrustServerCertificate=True"
 }
 
-3.Apply Migrations:
+## Apply Migrations:
 
  dotnet ef database update
  
-4. Run the Application:
+## Run the Application:
 
 dotnet run
 
-Access Points
+## Access Points
 
 Frontend: https://localhost:5002/Products/Index
 
 Swagger: https://localhost:5002/swagger
 
-API Endpoints
+## API Endpoints
 
 Method	Endpoint	Description
 
@@ -63,7 +63,7 @@ PUT	/api/products	Update a product
 DELETE	/api/products/{id}	Delete a product
 
 
-Validation Rules
+## Validation Rules
 
 Name: Required.
 
